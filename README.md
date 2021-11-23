@@ -1,4 +1,4 @@
-# Object_Detection_Persian_Digit_Detection
+# Object Detection Persian Digit Detection
 In this Persian project, I identify the Persian Digits in a given image. An example of the results of my project is below:  
 ![image](https://user-images.githubusercontent.com/67642255/142971398-6dd777eb-524d-4f95-bd20-e5c0d3cfbf54.png)  
 
